@@ -30,7 +30,7 @@ Research Areas
 Prospective Students
 --------------------
 
-I will be looking for Ph.D. students starting Spring 2024. Please consider applying to CMU ECE - <a href="https://www.ece.cmu.edu/admissions/index.html" style="color:#0645AD;">https://www.ece.cmu.edu/admissions/index.html</a>
+I will be looking for Ph.D. students starting Spring 2024. Please consider applying to <a href="https://www.ece.cmu.edu/admissions/index.html" style="color:#0645AD;">CMU ECE</a>!
  
 
 
