@@ -46,16 +46,6 @@ Research experience
 * <b>Applications: First application-level demonstrations of CNFET CMOS M3D technology </b>
   * First M3D CNFET CMOS IC: 3D Imager integrating two tiers of CMOS CNFETs over Si photodetectors to perform real-time edge-detection (VLSI 2019, technology highlight + demo)
 
-Teaching and Mentoring Experiences
-======
-
-<b> Teaching assistant, 6.012 Nanoelectronics and Computation Systems, Spring 2021, MIT </b>
-* Median evaluation scores: displaying thorough knowledge (7.0/7.0), supporting learning (7.0/7.0), and stimulating interest (6.5/7.0)
-*	Responsibilities: Set up class project on design-technology co-optimization of RISC processors, held weekly tutorials, created assignment solutions, graded assignments, helped grade midterms and finals
-  
-<b> Graduate and Undergraduate Research Mentor, Jan 2022 - present, Stanford </b>
-*	4 undergrads (Stanford REU program) and 2 master’s student as a part of Robust Systems Group supervised by Prof Subhasish Mitra
-
   
 Service
 ======
