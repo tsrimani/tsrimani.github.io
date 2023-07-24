@@ -18,6 +18,7 @@ His work led to the transition of the first CNFET and CNFET monolithic 3D proces
 
 Research Areas
 --------------
+
 * Semiconductor Devices
 * New Logic and Memory Technologies
 * New Packaging and Integration Technologies
@@ -25,5 +26,11 @@ Research Areas
 * Nanofabrication
 * Digital VLSI and Computer Systems Architecture
 * Technology-Architecture-Application Co-Design
+
+Prospective Students
+--------------------
+
+I will be looking for Ph.D. students starting Spring 2024. Please consider applying to CMU ECE - <a href="https://www.ece.cmu.edu/admissions/index.html"style="color:#0645AD;">https://www.ece.cmu.edu/admissions/index.html</a>
+ 
 
 
