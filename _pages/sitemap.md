@@ -9,13 +9,7 @@ author_profile: true
 
 <a href="https://tsrimani.github.io" style="font-weight:bold">Home</a>
 
-#<a href="https://tsrimani.github.io/portfolio" style="font-weight:bold">Research</a>
-
 <a href="https://tsrimani.github.io/publications" style="font-weight:bold">Publications</a>
-
-#<a href="https://tsrimani.github.io/teaching" style="font-weight:bold">Teaching</a>
-
-#<a href="https://tsrimani.github.io/talks" style="font-weight:bold">Talks</a>
 
 <a href="https://tsrimani.github.io/cv" style="font-weight:bold">CV</a>
 
