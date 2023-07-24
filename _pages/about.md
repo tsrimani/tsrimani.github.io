@@ -19,11 +19,11 @@ His work led to the transition of the first CNFET and CNFET monolithic 3D proces
 Research Areas
 --------------
 
-* Semiconductor Devices
+* New Nanomaterials and Device Concepts
 * New Logic and Memory Technologies
-* New Packaging and Integration Technologies
+* New Packaging and Integration Techniques
+* Nanofabrication Innovation
 * Integrated Micro/Nano Systems
-* Nanofabrication
 * Digital VLSI and Computer Systems Architecture
 * Technology-Architecture-Application Co-Design
 
