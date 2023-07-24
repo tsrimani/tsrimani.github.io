@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education & Training 
 ======
 * <b>Stanford University</b>, Stanford, CA, USA (2022 – present)
