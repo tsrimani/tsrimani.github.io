@@ -10,7 +10,7 @@ redirect_from:
 
 # Tathagata Srimani
 
-Tathagata Srimani is an incoming assistant professor at Carnegie Mellon University, ECE starting January 2024. Currently, he is a postdoctoral scholar in the Department of Electrical Engineering at Stanford University. Previously, he received the S.M. and the Ph.D. degree in EECS from Massachusetts Institute of Technology in 2018 and 2022 respectively, and the B.Tech degree in E&amp;ECE from IIT Kharagpur in 2016. 
+Tathagata Srimani is an incoming assistant professor at <a href="https://www.ece.cmu.edu/" style="color:#0645AD;"><b>Carnegie Mellon University</b></a>, Department of Electrical and Computer Engineering, Pittsburgh starting January 2024. Currently, he is a postdoctoral scholar in the Department of Electrical Engineering at <a href="https://ee.stanford.edu/" style="color:#0645AD;"><b>Stanford University</b></a>. Previously, he received the S.M. and the Ph.D. degree in EECS from <a href="https://www.eecs.mit.edu/" style="color:#0645AD;"><b>Massachusetts Institute of Technology</b></a> in 2018 and 2022 respectively, and the B.Tech degree in E&amp;ECE from <a href="https://www.iitkgp.ac.in/" style="color:#0645AD;"><b>Indian Institute of Technology, Kharagpur</b></a> in 2016. 
 
 His research interests include demonstrations of circuits and systems leveraging new nanotechnologies, heterogeneous and monolithic 3D integration, and technology-architecture co-design. His research results include the first silicon fab-compatible process for complementary Carbon Nanotube FETs (CNFETs) (TNANO ’18, ACS Nano ’18) which enabled the first CNFET RISC-V microprocessor (Nature ’19), and the first monolithic 3D system that integrates complementary CNFETs with silicon (Symp. VLSI Tech. ’19, Technology Highlight). 
 
