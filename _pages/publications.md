@@ -5,9 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications & Patents
+Journals and Conferences
 ======
-<b>Google Scholar</b> – https://scholar.google.com/citations?user=NVcyQ3wAAAAJ&hl=en&oi=ao 
+<b>Google Scholar</b> – <a href="https://scholar.google.com/citations?user=NVcyQ3wAAAAJ&hl=en&oi=ao" style="color:#0645AD;">https://scholar.google.com/citations?user=NVcyQ3wAAAAJ&hl=en&oi=ao</a>
+ 
 
 * Srimani, T., B. Manna, A.K. Mukhopadhyay, K. Roy, and M. Sharad, "Robust and high sensitivity biosensor using injection locked spin torque nano-oscillators." In 2016 IEEE DRC, pp. 1-2
 * Srimani, T., G. Hills, M.D. Bishop et. al. "Negative capacitance carbon nanotube FETs." IEEE EDL, (2017), 39(2), pp. 304-307
