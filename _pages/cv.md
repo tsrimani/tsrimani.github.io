@@ -19,14 +19,14 @@ Education & Training
 * <b>Massachusetts Institute of Technology</b>, Cambridge, MA, USA (2018 – 2022)
   * Ph.D. in Electrical Engineering & Computer Science
   * Advisor: Prof. Max M. Shulaker
-  * Thesis Title: "Nanosystems: From the Lab to the Fab"
+  * Thesis Title: <a href="https://dspace.mit.edu/handle/1721.1/146295" style="color:#0645AD;">_Nanosystems: From the Lab to the Fab_</a>
   * Dissertation Committee: Prof. Max M. Shulaker, Prof. Jesús A. del Alamo, Prof. Akintunde Akinwande
   * Minor: _Digital Image Processing_
     
 * <b>Massachusetts Institute of Technology</b>, Cambridge, MA, USA (2016 – 2018)
   * S.M. in Electrical Engineering & Computer Science
   * Advisor: Prof. Max M. Shulaker
-  * Thesis Title: "Energy efficient computing: from nanotubes to negative capacitance"
+  * Thesis Title: <a href="https://dspace.mit.edu/handle/1721.1/118042" style="color:#0645AD;">_Energy efficient computing: from nanotubes to negative capacitance_</a>
     
 * <b>Indian Institute of Technology Kharagpur</b>, Kharagpur, WB, India (2012 – 2016)
   * B.Tech. (Hons.) in Electronics & Electrical Communication Engineering
