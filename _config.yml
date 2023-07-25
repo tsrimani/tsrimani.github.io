@@ -85,8 +85,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tathagata Srimani
-                      he/him/his style="color:#f5f5f5"
+  name             : <a style="color:#f5f5f5">"Tathagata Srimani
+                      he/him/his"</a> 
   avatar           : "profile.png"
   bio              : "Incoming Assistant Professor, 
                       Electrical and Computer Engineering, 
