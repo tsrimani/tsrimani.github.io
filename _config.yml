@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Remote Theme
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: chrisrhymes/bulma-clean-theme
 
 # Site Settings
 locale                   : "en-US"
