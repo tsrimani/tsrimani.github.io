@@ -34,6 +34,7 @@ Corresponding author: #; Equal Contribution: ^
   
 Invited Articles & Presentations
 ======
+* Srimani, T. “New Foundry Monolithic 3D BEOL Transistor+Memory Stack Unlocks Large IC Architectural Benefits Within the Same Design Footprint at the Same Technology Node ” IEEE/ACM ICCAD SLIP Workshop, San Francisco, USA (November 2023)
 * Srimani, T. “NanoSystems: Lab to Fab” IEEE IISc Bangalore, Bangalore, India (July 2023)
 * Srimani, T. “NanoSystems: Lab to Fab” IEEE Leuven/MICAS, KU Leuven (April 2023)
 * Srimani, T., M. Shulaker “Talk is Cheap: It Takes Money to Ride the Train” 6.nano seminar series, EECS, MIT (Nov 2022)
