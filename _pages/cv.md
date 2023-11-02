@@ -62,6 +62,7 @@ Service
   * Applied Physics Letters (APL)
   * IEEE Access
   * IEEE ISCAS Conference
+  * IEEE Transactions on Very Large Scale Integration Systems (TVLSI)
 
 
 Outreach
