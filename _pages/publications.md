@@ -34,6 +34,7 @@ Corresponding author: #; Equal Contribution: ^
   
 Invited Articles & Presentations
 ======
+* Radway, R., Srimani, T. "New Foundry Monolithic 3D Transistor+Memory Unlocks Large Benefits vs. Conventional Silicon Transistor+Memory within the Same Footprint​" SystemX Fall Conference, Stanford University (Nov 2023)
 * Srimani, T. “New Foundry Monolithic 3D BEOL Transistor+Memory Stack Unlocks Large IC Architectural Benefits Within the Same Design Footprint at the Same Technology Node ” IEEE/ACM ICCAD SLIP Workshop, San Francisco, USA (November 2023)
 * Srimani, T. “NanoSystems: Lab to Fab” IEEE IISc Bangalore, Bangalore, India (July 2023)
 * Srimani, T. “NanoSystems: Lab to Fab” IEEE Leuven/MICAS, KU Leuven (April 2023)
