@@ -10,25 +10,25 @@ Journals and Conferences
 <b>Google Scholar</b> – <a href="https://scholar.google.com/citations?user=NVcyQ3wAAAAJ&hl=en&oi=ao" style="color:#0645AD;">https://scholar.google.com/citations?user=NVcyQ3wAAAAJ&hl=en&oi=ao</a>
  
 
-* Srimani, T., B. Manna, A.K. Mukhopadhyay, K. Roy, and M. Sharad, "Robust and high sensitivity biosensor using injection locked spin torque nano-oscillators." In 2016 IEEE DRC, pp. 1-2
-* Srimani, T., G. Hills, M.D. Bishop et. al. "Negative capacitance carbon nanotube FETs." IEEE EDL, (2017), 39(2), pp. 304-307
-* Lau, C., T. Srimani, M. D. Bishop, G. Hills, and M. M. Shulaker. "Tunable n-type doping of carbon nanotubes through engineered atomic layer deposition HfOX films." ACS nano, (2018), 12(11), pp. 10924-10931
-* Srimani, T., G. Hills, M. D. Bishop, and M.M. Shulaker. "30-nm Contacted Gate Pitch Back-Gate Carbon Nanotube FETs for Sub-3-nm Nodes." IEEE TNANO (2018), 18, pp. 132-138
-* Srimani, T., G. Hills, X. Zhao, D. Antoniadis, J. A. del Alamo, and M. M. Shulaker. "Asymmetric gating for reducing leakage current in carbon nanotube field-effect transistors." APL, (2019), 115(6), pp. 063107
-* Srimani, T. #, G. Hills, C. Lau, and M. Shulaker. "Monolithic Three-Dimensional Imaging System: Carbon Nanotube Computing Circuitry Integrated Directly Over Silicon Imager." (Technology Highlight + Demo Session, finalist for best student paper), IEEE Symp. on VLSI Tech., (2019), pp. T24-T25
-* Hills, G., C. Lau, A. Wright, S. Fuller, M. D. Bishop, T. Srimani, P. Kanhaiya et al. "Modern microprocessor built from complementary carbon nanotube transistors." Nature, (2019), 572(7771), pp. 595-602
-* Bishop, M. D., G. Hills, T. Srimani, C. Lau, et al. "Fabrication of carbon nanotube field-effect transistors in commercial silicon manufacturing facilities." Nature Electronics, (2020), 3(8), pp. 492-501
-* Hills, G., C. Lau, T. Srimani, M.D. Bishop, P. Kanhaiya, R. Ho, A. Amer, and M. M. Shulaker. "Advances in Carbon Nanotube Technologies: From Transistors to a RISC-V Microprocessor."  ISPD, (2020), pp. 33-38
-* Lau, C., G. Hills, M. D. Bishop, T. Srimani, R. Ho, P. Kanhaiya, A. Yu, A. Amer, M. Chao, and M. M. Shulaker. "Manufacturing Methodology for Carbon Nanotube Electronics."  IEEE VLSI-TSA, (2020), pp. 134-135
-* Srimani, T.^, G. Hills^, M. Bishop, C. Lau et al. “Heterogeneous Integration of BEOL Logic and Memory in a Commercial Foundry: Multi-tier Complementary Carbon Nanotube Logic and Resistive RAM at a 130 nm node” (Joint Focus in Technology and Circuits), IEEE Symp. on VLSI Technology and Circuits, (2020), pp. 1-2
-* Yu, A.C., T. Srimani, et al. " Foundry Integration of Carbon Nanotube FETs at the 90 nm Node with New Lift-off-free Process." IEEE EDL (2022), 43(3), pp. 486-489
-* Srimani, T. #^, Yu, A.C.^, et al. " Lift-off-Free Complementary Carbon Nanotube FETs Fabricated with Conventional Processing in a Silicon Foundry" IEEE VLSI-TSA, (2022), pp. 1-2
-* Srimani, T.^, Ding, J.^, Yu, A.C.^, et al. “Comprehensive Study on High Purity Semiconducting Carbon Nanotube Extraction” Advanced Electronic Materials (2022)
-* Srimani, T. #^, Radway, R.^, Kim, J.^, Prabhu K., et al. “Ultra-dense 3D Physical Design Unlocks New Architectural Design Points with Large Benefits” 2023 ACM/IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE).
-* T. Srimani^, A.C. Yu^, R. Radway^, D. Rich, M. Nelson, S. Wong, D. Murphy, S. Fuller, G. Hills, S. Mitra and M. Shulaker, “Foundry Monolithic 3D BEOL Transistor + Memory Stack: Iso-performance and Iso-footprint BEOL Carbon Nanotube FET+RRAM vs. FEOL Silicon FET+RRAM,” IEEE Symp. VLSI Technology, June 2023 (Technology Focus Session).
 * T. Srimani, A. Bechdolt, S. Choi, C. Gilardi, A. Kasperovich, S. Li, Q. Lin, M. Malakoutian, P. McEwen, R. M. Radway, D. Rich, A. C. Yu, S. Fuller, S. Achour, S. Chowdhury, H.-S. P. Wong, M. Shulaker, S. Mitra, “N3XT 3D Technology Foundations and Their Lab-to-Fab: Omni 3D Logic, Logic+Memory Ultra-Dense 3D, 3D Thermal Scaffolding,” IEEE International Electron Devices Meeting (IEDM), December 2023.
 * C. Gilardi, G. Zeevi, S. Choi, S. Su, T. Hung, S. Li, N. Safron, Q. Lin, T. Srimani, M. Passlack, G. Pitner, E. Chen, I. Radu, H. P. Wong, S. Mitra, "Barrier Booster for Remote Extension Doping and its DTCO in 1D & 2D FETs", IEEE International Electron Devices Meeting (IEDM), December 2023.
 * Shulaker, M., T. Srimani, S. Fuller, Y. Stein, and D. Murphy. "Back-gate field-effect transistors and methods for making the same." U.S. Patent 11,626,486 issued April 11, 2023.
+* T. Srimani^, A.C. Yu^, R. Radway^, D. Rich, M. Nelson, S. Wong, D. Murphy, S. Fuller, G. Hills, S. Mitra and M. Shulaker, “Foundry Monolithic 3D BEOL Transistor + Memory Stack: Iso-performance and Iso-footprint BEOL Carbon Nanotube FET+RRAM vs. FEOL Silicon FET+RRAM,” IEEE Symp. VLSI Technology, June 2023 (Technology Focus Session).
+* Srimani, T. #^, Radway, R.^, Kim, J.^, Prabhu K., et al. “Ultra-dense 3D Physical Design Unlocks New Architectural Design Points with Large Benefits” 2023 ACM/IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE).
+* Srimani, T.^, Ding, J.^, Yu, A.C.^, et al. “Comprehensive Study on High Purity Semiconducting Carbon Nanotube Extraction” Advanced Electronic Materials (2022)
+* Srimani, T. #^, Yu, A.C.^, et al. " Lift-off-Free Complementary Carbon Nanotube FETs Fabricated with Conventional Processing in a Silicon Foundry" IEEE VLSI-TSA, (2022), pp. 1-2
+* Yu, A.C., T. Srimani, et al. " Foundry Integration of Carbon Nanotube FETs at the 90 nm Node with New Lift-off-free Process." IEEE EDL (2022), 43(3), pp. 486-489
+* Srimani, T.^, G. Hills^, M. Bishop, C. Lau et al. “Heterogeneous Integration of BEOL Logic and Memory in a Commercial Foundry: Multi-tier Complementary Carbon Nanotube Logic and Resistive RAM at a 130 nm node” (Joint Focus in Technology and Circuits), IEEE Symp. on VLSI Technology and Circuits, (2020), pp. 1-2
+* Lau, C., G. Hills, M. D. Bishop, T. Srimani, R. Ho, P. Kanhaiya, A. Yu, A. Amer, M. Chao, and M. M. Shulaker. "Manufacturing Methodology for Carbon Nanotube Electronics."  IEEE VLSI-TSA, (2020), pp. 134-135
+* Hills, G., C. Lau, T. Srimani, M.D. Bishop, P. Kanhaiya, R. Ho, A. Amer, and M. M. Shulaker. "Advances in Carbon Nanotube Technologies: From Transistors to a RISC-V Microprocessor."  ISPD, (2020), pp. 33-38
+* Bishop, M. D., G. Hills, T. Srimani, C. Lau, et al. "Fabrication of carbon nanotube field-effect transistors in commercial silicon manufacturing facilities." Nature Electronics, (2020), 3(8), pp. 492-501
+* Hills, G., C. Lau, A. Wright, S. Fuller, M. D. Bishop, T. Srimani, P. Kanhaiya et al. "Modern microprocessor built from complementary carbon nanotube transistors." Nature, (2019), 572(7771), pp. 595-602
+* Srimani, T. #, G. Hills, C. Lau, and M. Shulaker. "Monolithic Three-Dimensional Imaging System: Carbon Nanotube Computing Circuitry Integrated Directly Over Silicon Imager." (Technology Highlight + Demo Session), IEEE Symp. on VLSI Tech., (2019), pp. T24-T25
+* Srimani, T., G. Hills, X. Zhao, D. Antoniadis, J. A. del Alamo, and M. M. Shulaker. "Asymmetric gating for reducing leakage current in carbon nanotube field-effect transistors." APL, (2019), 115(6), pp. 063107
+* Srimani, T., G. Hills, M. D. Bishop, and M.M. Shulaker. "30-nm Contacted Gate Pitch Back-Gate Carbon Nanotube FETs for Sub-3-nm Nodes." IEEE TNANO (2018), 18, pp. 132-138
+* Lau, C., T. Srimani, M. D. Bishop, G. Hills, and M. M. Shulaker. "Tunable n-type doping of carbon nanotubes through engineered atomic layer deposition HfOX films." ACS nano, (2018), 12(11), pp. 10924-10931
+* Srimani, T., G. Hills, M.D. Bishop et. al. "Negative capacitance carbon nanotube FETs." IEEE EDL, (2017), 39(2), pp. 304-307
+* Srimani, T., B. Manna, A.K. Mukhopadhyay, K. Roy, and M. Sharad, "Robust and high sensitivity biosensor using injection locked spin torque nano-oscillators." In 2016 IEEE DRC, pp. 1-2
 
 Corresponding author: #; Equal Contribution: ^
   
