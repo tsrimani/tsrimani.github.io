@@ -10,11 +10,11 @@ Journals and Conferences
 <b>Google Scholar</b> – <a href="https://scholar.google.com/citations?user=NVcyQ3wAAAAJ&hl=en&oi=ao" style="color:#0645AD;">https://scholar.google.com/citations?user=NVcyQ3wAAAAJ&hl=en&oi=ao</a>
  
 
-* T. Srimani, A. Bechdolt, S. Choi, C. Gilardi, A. Kasperovich, S. Li, Q. Lin, M. Malakoutian, P. McEwen, R. M. Radway, D. Rich, A. C. Yu, S. Fuller, S. Achour, S. Chowdhury, H.-S. P. Wong, M. Shulaker, S. Mitra, “N3XT 3D Technology Foundations and Their Lab-to-Fab: Omni 3D Logic, Logic+Memory Ultra-Dense 3D, 3D Thermal Scaffolding,” IEEE International Electron Devices Meeting (IEDM), December 2023.
-* C. Gilardi, G. Zeevi, S. Choi, S. Su, T. Hung, S. Li, N. Safron, Q. Lin, T. Srimani, M. Passlack, G. Pitner, E. Chen, I. Radu, H. P. Wong, S. Mitra, "Barrier Booster for Remote Extension Doping and its DTCO in 1D & 2D FETs", IEEE International Electron Devices Meeting (IEDM), December 2023.
-* T. Srimani^, A.C. Yu^, R. Radway^, D. Rich, M. Nelson, S. Wong, D. Murphy, S. Fuller, G. Hills, S. Mitra and M. Shulaker, “Foundry Monolithic 3D BEOL Transistor + Memory Stack: Iso-performance and Iso-footprint BEOL Carbon Nanotube FET+RRAM vs. FEOL Silicon FET+RRAM,” IEEE Symp. VLSI Technology, June 2023 (Technology Focus Session).
-* Shulaker, M., T. Srimani, S. Fuller, Y. Stein, and D. Murphy. "Back-gate field-effect transistors and methods for making the same." U.S. Patent 11,626,486 issued April 11, 2023.
-* Srimani, T. #^, Radway, R.^, Kim, J.^, Prabhu K., et al. “Ultra-dense 3D Physical Design Unlocks New Architectural Design Points with Large Benefits” 2023 ACM/IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE).
+* T. Srimani, A. Bechdolt, S. Choi, C. Gilardi, A. Kasperovich, S. Li, Q. Lin, M. Malakoutian, P. McEwen, R. M. Radway, D. Rich, A. C. Yu, S. Fuller, S. Achour, S. Chowdhury, H.-S. P. Wong, M. Shulaker, S. Mitra, “N3XT 3D Technology Foundations and Their Lab-to-Fab: Omni 3D Logic, Logic+Memory Ultra-Dense 3D, 3D Thermal Scaffolding,” IEEE International Electron Devices Meeting (IEDM), December 2023
+* C. Gilardi, G. Zeevi, S. Choi, S. Su, T. Hung, S. Li, N. Safron, Q. Lin, T. Srimani, M. Passlack, G. Pitner, E. Chen, I. Radu, H. P. Wong, S. Mitra, "Barrier Booster for Remote Extension Doping and its DTCO in 1D & 2D FETs", IEEE International Electron Devices Meeting (IEDM), December 2023
+* T. Srimani^, A.C. Yu^, R. Radway^, D. Rich, M. Nelson, S. Wong, D. Murphy, S. Fuller, G. Hills, S. Mitra and M. Shulaker, “Foundry Monolithic 3D BEOL Transistor + Memory Stack: Iso-performance and Iso-footprint BEOL Carbon Nanotube FET+RRAM vs. FEOL Silicon FET+RRAM,” IEEE Symp. VLSI Technology, June 2023 (Technology Focus Session)
+* Shulaker, M., T. Srimani, S. Fuller, Y. Stein, and D. Murphy. "Back-gate field-effect transistors and methods for making the same." U.S. Patent 11,626,486 issued April 11, 2023
+* Srimani, T. #^, Radway, R.^, Kim, J.^, Prabhu K., et al. “Ultra-dense 3D Physical Design Unlocks New Architectural Design Points with Large Benefits” 2023 ACM/IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE)
 * Srimani, T.^, Ding, J.^, Yu, A.C.^, et al. “Comprehensive Study on High Purity Semiconducting Carbon Nanotube Extraction” Advanced Electronic Materials (2022)
 * Srimani, T. #^, Yu, A.C.^, et al. " Lift-off-Free Complementary Carbon Nanotube FETs Fabricated with Conventional Processing in a Silicon Foundry" IEEE VLSI-TSA, (2022), pp. 1-2
 * Yu, A.C., T. Srimani, et al. " Foundry Integration of Carbon Nanotube FETs at the 90 nm Node with New Lift-off-free Process." IEEE EDL (2022), 43(3), pp. 486-489
@@ -42,7 +42,7 @@ Invited Articles & Presentations
 * Srimani, T., R.M. Radway “Foundry Monolithic 3D Technology Enables New Architectural Design Points with Large Benefits” SystemX Fall Conference, Stanford University (Nov 2022)
 * Srimani, T. “NanoSystems: Lab to Fab” ECE Graduate Seminar Series, Carnegie Mellon University (Nov 2022)
 * Srimani, T., R.M. Radway, H.-S.P. Wong, S. Mitra “The Future of Hardware Technologies for Computing: N3XT 3D MOSAIC, Illusion Scaleup, Co-Design” TCVLSI newsletter (May 2022)
-* Srimani, T. “Nanosystems for Energy-Efficient Computing using Carbon Nanotube FETs and Monolithic 3D Integration” (3D Integration Workshop), In 2022 IEEE DATE conference (Mar 2022)
+* Srimani, T. “Nanosystems for Energy-Efficient Computing using Carbon Nanotube FETs and Monolithic 3D Integration” (3D Integration Workshop), In 2022 ACM/IEEE Design, Automation & Test in Europe Conference & Exhibition (DATE) (Mar 2022)
 * Srimani, T. " Commercial Opportunities for RRAM, CNTs, and Monolithic 3D in the US" CICS Meeting, MTL, MIT (Nov 2021)
 * Srimani, T. "Beyond-Silicon Technologies for Beyond-Silicon Applications." CICS Meeting, MTL, MIT (May 2021)
 * Srimani, T. "Establishing Emerging Nanotechnologies to Supplement Silicon CMOS within Commercial Fabs and Foundries." CICS Meeting, MTL, MIT (May 2020)
