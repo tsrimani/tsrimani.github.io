@@ -12,7 +12,7 @@ redirect_from:
 
 Education & Training 
 ======
-* <b>Stanford University</b>, Stanford, CA, USA (2022 – present)
+* <b>Stanford University</b>, Stanford, CA, USA (2022 – 2023)
   * Postdoctoral Scholar in Electrical Engineering 
   * Advisor: Prof. Subhasish Mitra
     
