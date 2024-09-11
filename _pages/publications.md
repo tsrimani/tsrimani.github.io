@@ -35,6 +35,11 @@ Corresponding author: #; Equal Contribution: ^
   
 Invited Articles & Presentations
 ======
+* Srimani, T. “The next leap in computing systems: powered by beyond-silicon technologies and their lab-to-fab” ECE Graduate Seminar Series, Carnegie Mellon University (Sep 2024)
+* Srimani, T., R Radway, M Mohseni, K Çamsarı, S Mitra “Next-generation Probabilistic Computing Hardware with 3D MOSAICs, Illusion Scale-up, and Co-design”, DOE ASCR Analog Computing for Science Workshop, Bethesda, Maryland (Sep 2024)
+* Srimani, T. “NanoSystems: Lab-to-fab and Co-design” Department of Electrical Engineering, Indian Institute of Technology, Bombay, India (Aug 2024)
+*	Srimani, T. “The next leap in computing systems: powered by beyond-silicon technologies and their lab-to-fab” Centre for Nano Science and Engineering, Indian Institute of Science, Bangalore, India (Aug 2024)
+*	Srimani, T. “Foundry Monolithic 3D Logic+Memory Stack unlocks Large IC Architectural Benefits” (3D Integration Workshop), In 2024 IEEE DATE conference (Mar 2024)
 * Radway, R., Srimani, T. "New Foundry Monolithic 3D Transistor+Memory Unlocks Large Benefits vs. Conventional Silicon Transistor+Memory within the Same Footprint​" SystemX Fall Conference, Stanford University (Nov 2023)
 * Srimani, T. “New Foundry Monolithic 3D BEOL Transistor+Memory Stack Unlocks Large IC Architectural Benefits Within the Same Design Footprint at the Same Technology Node ” IEEE/ACM ICCAD SLIP Workshop, San Francisco, USA (November 2023)
 * Srimani, T. “NanoSystems: Lab to Fab” IEEE IISc Bangalore, Bangalore, India (July 2023)
