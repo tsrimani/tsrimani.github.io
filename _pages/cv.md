@@ -70,7 +70,7 @@ Service
 Outreach
 ======
 <b>EECS Graduate Application Assistance Program (GAAP) mentor</b>, MIT (2020 - 2021) 
-  * A program established to help potential PhD applicants from underrepresented minorities
+  * A program established to help potential PhD applicants from varied backgrounds 
   * Mentored 9 students from 5 different countries
     
 <b>Member of the National Service Scheme</b>, IIT Kharagpur (2012-2014)
