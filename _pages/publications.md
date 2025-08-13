@@ -10,7 +10,11 @@ Journals and Conferences
 <b>Google Scholar</b> – <a href="https://scholar.google.com/citations?user=NVcyQ3wAAAAJ&hl=en&oi=ao" style="color:#0645AD;">https://scholar.google.com/citations?user=NVcyQ3wAAAAJ&hl=en&oi=ao</a>
  
 
-* Rich, D., T. Srimani, M. Malakoutian, S. Chowdhury, S. Mitra, "Efficient Ultra-Dense 3D IC Power Delivery and Cooling Using 3D Thermal Scaffolding," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2024 (To Appear)
+* Sajeeb, M., N. A. Aadit, S. Chowdhury, T. Wu, C. Smith, D. Chinmay, A. Raut, K. Y. Camsari, C. Delacour, and T. Srimani. # "Scalable connectivity for Ising machines: Dense to sparse." Physical Review Applied 24, no. 1 (2025): 014005.
+* Sajal, M. S., T. Wu, M. Dandin, and T. Srimani. # "Probabilistic Bits using Perimeter-Gated Single Photon Avalanche Diodes." IEEE Electron Device Letters (2025).
+* Choi, S., C. Gilardi, P. Gutwin, R. M. Radway, T. Srimani, and S. Mitra. "Omni 3D: BEOL-Compatible 3-D Logic With Omnipresent Power, Signal, and Clock." IEEE Transactions on Electron Devices (2025).
+* Yu, A. C., T. Srimani #, and M. M. Shulaker. "Overcoming Ambient Drift and Negative-Bias Temperature Instability in Foundry Carbon Nanotube Transistors." ACS Applied Materials & Interfaces 17, no. 13 (2025): 20411-20417.
+* Rich, D., T. Srimani, M. Malakoutian, S. Chowdhury, S. Mitra, "Efficient Ultra-Dense 3D IC Power Delivery and Cooling Using 3D Thermal Scaffolding," IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2024 
 * Srimani, T., A. Bechdolt, S. Choi, C. Gilardi, A. Kasperovich, S. Li, Q. Lin, M. Malakoutian, P. McEwen, R. M. Radway, D. Rich, A. C. Yu, S. Fuller, S. Achour, S. Chowdhury, H.-S. P. Wong, M. Shulaker, S. Mitra, “N3XT 3D Technology Foundations and Their Lab-to-Fab: Omni 3D Logic, Logic+Memory Ultra-Dense 3D, 3D Thermal Scaffolding,” IEEE International Electron Devices Meeting (IEDM), December 2023
 * Gilardi, C., G. Zeevi, S. Choi, S. Su, T. Hung, S. Li, N. Safron, Q. Lin, T. Srimani, M. Passlack, G. Pitner, E. Chen, I. Radu, H. P. Wong, S. Mitra, "Barrier Booster for Remote Extension Doping and its DTCO in 1D & 2D FETs", IEEE International Electron Devices Meeting (IEDM), December 2023
 * Srimani, T. #^, A.C. Yu ^, R. Radway ^, D. Rich, M. Nelson, S. Wong, D. Murphy, S. Fuller, G. Hills, S. Mitra and M. Shulaker, “Foundry Monolithic 3D BEOL Transistor + Memory Stack: Iso-performance and Iso-footprint BEOL Carbon Nanotube FET+RRAM vs. FEOL Silicon FET+RRAM,” IEEE Symp. VLSI Technology, June 2023 (Technology Focus Session and Best Student Paper)
