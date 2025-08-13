@@ -57,6 +57,15 @@ Research experience
   
 Service
 ======
+<b>Program Committee Member:</b> 
+  * IEEE CICC (2025, 2026)
+  * ACM/IEEE ICCAD (2025)
+  * ACM/IEEE DATE (2026)
+  * ASPLOS (2026)
+
+<b>Associate Editor:</b> 
+  * IEEE Transactions on Very Large Scale Integration Systems (TVLSI)
+
 <b>Reviewer:</b> 
   * IEEE Electron Device Letters (EDL)
   * IEEE Transactions on Electron Devices (TED)
